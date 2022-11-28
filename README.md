@@ -5,7 +5,7 @@
 
 - 🔭 Student of **Masai School**
 
-- 👨‍💻 All of my projects are available at [rohit-m-roy.github.io](rohit-m-roy.github.io)
+- 👨‍💻 All of my projects are available at [rohit-m-roy.github.io](https://rohit-m-roy.github.io)
 
 - 📫 How to reach me **mrrohitroy09@gmail.com**
 
