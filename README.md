@@ -6,7 +6,7 @@
 
  <p align="right">  
   
- <img align="right" style="height: 250px;" src="https://github.com/Rohit-M-Roy/readME_GIf/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif" alt="">
+ <img align="right" style="height: 250px;" src="https://github.com/Rohit-M-Roy/readME_GIf/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif" alt="coding_gif">
 
 </p>
  
@@ -27,15 +27,16 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
-<a href="https://linkedin.com/in/rohit-m-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-m-roy" height="40" width="50" ></a>
-<a href="https://www.leetcode.com/rohit_royy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit_roy" height="40" width="50" /></a>
- <a href="https://www.hackerrank.com/mrrohitroy09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohit_roy" height="40" width="50" style="margin-right: 10px;"/></a>
+<a href="https://linkedin.com/in/rohit-m-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" ></a>
+<a href="https://www.leetcode.com/rohit_royy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetCode" height="40" width="50" /></a>
+ <a href="https://www.hackerrank.com/mrrohitroy09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerRank" height="40" width="50" style="margin-right: 10px;"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,git,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,git,netlify,vscode,postman)](https://skillicons.dev) 
+
 
 ### 🎖️ GitHub Profile Trophy
 <hr>
