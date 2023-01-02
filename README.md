@@ -14,7 +14,9 @@
 
 - 🔭 Student of **Masai School**
 
-- 👨‍💻 All of my projects are available at [rohit-m-roy.github.io](https://rohit-m-roy.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rohit-m-roy.github.io)
+
+- <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://github.com/Rohit-M-Roy/RESUME)
 
 - 📫 How to reach me **mrrohitroy09@gmail.com**
 
@@ -27,6 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rohit-m-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-m-roy" height="40" width="50" ></a>
 <a href="https://www.leetcode.com/rohit_royy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit_roy" height="40" width="50" /></a>
+ <a href="https://www.hackerrank.com/mrrohitroy09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samantamayuri" height="40" width="50" style="margin-right: 10px;"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,3 +49,6 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit-m-roy&show_icons=true&locale=en&theme=tokyonight" alt="rohit-m-roy" /></p>
+<hr>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
