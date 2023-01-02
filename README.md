@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **There is nothing impossible to those who try.**
 
+![](https://komarev.com/ghpvc/?username=rohit-m-roy&color=blueviolet)
+
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
