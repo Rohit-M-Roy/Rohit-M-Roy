@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rohit-m-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-m-roy" height="40" width="50" ></a>
 <a href="https://www.leetcode.com/rohit_royy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit_roy" height="40" width="50" /></a>
- <a href="https://www.hackerrank.com/mrrohitroy09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samantamayuri" height="40" width="50" style="margin-right: 10px;"/></a>
+ <a href="https://www.hackerrank.com/mrrohitroy09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohit_roy" height="40" width="50" style="margin-right: 10px;"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
