@@ -40,7 +40,7 @@
 ### 🎖️ GitHub Profile Trophy
 <hr>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rohit-m-roy&theme=onestar&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=rohit-m-roy&theme=default&no-bg=true)
 
 -----------------
 
