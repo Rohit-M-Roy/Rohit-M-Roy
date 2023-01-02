@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mrrohitroy09@gmail.com**
 
-- ⚡ Fun fact **There is nothing impossible to those who try.**
+- ⚡ Fun fact **Coding is not a hobby its a lifestyle**
   
 ![](https://komarev.com/ghpvc/?username=rohit-m-roy&color=blueviolet)
 
