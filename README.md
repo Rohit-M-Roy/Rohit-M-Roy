@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rohit-m-roy.github.io)
 
-- <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume].(https://drive.google.com/file/d/1tPuA2Q7fn-H0SEpkrxHanPrOfAlbyiHS/view?usp=share_link)
+- <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1tPuA2Q7fn-H0SEpkrxHanPrOfAlbyiHS/view?usp=share_link)
 
 - 📫 How to reach me **mrrohitroy09@gmail.com**
 
